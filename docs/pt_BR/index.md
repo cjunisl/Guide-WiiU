@@ -1,9 +1,9 @@
 ---
 layout: home
-title: "Wii U Hacks Guide"
+title: "Guia de Hacks para Wii U"
 hero:
-  text: "Wii U Hacks Guide"
-  tagline: "A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Aroma custom firmware."
+  text: Guia de Hacks para Wii U"
+  tagline: "Um guia colaborativo entre os Ajudantes e a Equipe do Nintendo Homebrew, do firmware original ao personalizado Aroma."
   image:
     src: "/assets/img/home-page-feature.jpg"
 ---
@@ -34,9 +34,9 @@ Aplicativos homebrew são softwares personalizados, criados por usuários, que n
 
 É possível executar homebrews no seu Wii U, desde que você tenha como colocar arquivos em um cartão SD e seu Wii U esteja atualizado para a versão mais recente da sua região.
 
-### Firmware Customizado
+### Firmware personalizado
 
-O firmware customizado (frequentemente abreviado como "CFW") permite usar recursos mais avançados que o homebrew padrão do usuário não consegue implementar facilmente. Por exemplo, instalar modificações de jogos com facilidade.
+O firmware personalizado (frequentemente abreviado como "CFW") permite usar recursos mais avançados que o homebrew padrão do usuário não consegue implementar facilmente. Por exemplo, instalar modificações de jogos com facilidade.
 O CFW pode ser instalado em qualquer console na versão mais recente.
 
 ### Usos de Homebrew e CFW
@@ -51,7 +51,7 @@ Entre outras coisas, ele permite que você faça o seguinte:
 
 ### Objetivo Final
 
-Este guia tem como objetivo final transformar um Wii U completamente original em um console com firmware customizado. 
+Este guia tem como objetivo final transformar um Wii U completamente original em um console com firmware personalizado. 
 
 ### Antes de começar
 
